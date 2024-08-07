@@ -4,6 +4,7 @@
 	import Event from "$lib/components/HomeEvent.svelte";
 
 	let { data } = $props();
+
 </script>
 
 <main class="px-8">
